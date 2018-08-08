@@ -1,3 +1,9 @@
 [submodule "ms-cpprest-sdk"]
 	path = ms-cpprest-sdk
 	url = https://github.com/Microsoft/cpprestsdk.git
+[submodule "WDK-samples"]
+	path = WDK-samples
+	url = https://github.com/Microsoft/Windows-driver-samples.git
+[submodule "Win32-samples"]
+	path = Win32-samples
+	url = https://github.com/Microsoft/Windows-classic-samples.git
