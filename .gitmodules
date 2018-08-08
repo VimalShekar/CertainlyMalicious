@@ -13,3 +13,6 @@
 [submodule "rekall"]
 	path = rekall
 	url = https://github.com/google/rekall.git
+[submodule "ms-cpprest-sdk"]
+	path = ms-cpprest-sdk
+	url = https://github.com/Microsoft/cpprestsdk.git
