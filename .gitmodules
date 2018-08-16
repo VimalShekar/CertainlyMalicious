@@ -7,3 +7,9 @@
 [submodule "Win32-samples"]
 	path = Win32-samples
 	url = https://github.com/Microsoft/Windows-classic-samples.git
+[submodule "my/Native"]
+	path = my/Native
+	url = https://github.com/VimalShekar/Cpp
+[submodule "my/PowerShell"]
+	path = my/PowerShell
+	url = https://github.com/VimalShekar/PowerShell
